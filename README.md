@@ -1,4 +1,4 @@
-'# Security JWT by Header
+# Security JWT by Header
 
 Projeto com o intuito em demonstrar a montagem e utilização de JWT armazenado e consumido no Header
 <br/><br/>
